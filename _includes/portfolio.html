@@ -12,7 +12,7 @@
             <div class="row text-center">
               {% for poster in site.data.information.posters %}
                 <div class="col-md-4">
-                  <img src="{{ poster.image }}" style="height:300px">
+                  <img src="img/posters/{{ poster.image }}" style="height:300px">
                   <h4 class="service-heading">{{ poster.title }}<h4>
                 </div>
               {% endfor %}
@@ -25,7 +25,7 @@
            <div class="row text-center">
               {% for sticker in site.data.information.stickers %}
                 <div class="col-md-4">
-                  <img src="{{ sticker.image }}" style="height:300px">
+                  <img src="img/stickers/{{ sticker.image }}" style="height:300px">
                   <h4 class="service-heading">{{ sticker.title }}<h4>
                 </div>
               {% endfor %}
