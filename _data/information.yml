@@ -1,1 +1,9 @@
 services: The title says it all; here at Jacurutu we offer shockingly decent design work for the best price around. The service is geared primarily for poor-ass bands who don't have the skillz or time to make a bunch of posters/stickers but anyone who is willing to sacrifice some quality for amazing value will benefit from Jacurutu. We offer
+
+posters:
+  - image: img/posters/slant-thumb.jpg
+    title: Slant
+
+stickers:
+  - image: img/stickers/SW_blast.png
+    title: SW Blast
