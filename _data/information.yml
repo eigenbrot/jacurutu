@@ -3,6 +3,27 @@ services: The title says it all; here at Jacurutu we offer shockingly decent des
 posters:
   - image: slant-thumb.jpg
     title: Slant
+  - image: harry.jpg
+    title: Dirty Harry
+  - image: silhouette.jpg
+    title: Silhouette
+  - image: max.jpg
+    title: The Road Warrior
+  - image: max_2.jpg
+    title: Mad Max
+  - image: predator.jpg
+    title: Predator
+  - image: crane.jpg
+    title: Crane
+  - image: goatbusters.jpg
+    title: Goatbusters
+  - image: patagonia.jpg
+    title: Patagonia
+  - image: robo.jpg
+    title: Robocop
+  - image: columbia.jpg
+    title: Columbia
+
 
 stickers:
   - image: SW_blast.png
