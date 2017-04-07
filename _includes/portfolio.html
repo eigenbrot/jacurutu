@@ -36,6 +36,19 @@
                 </div>
               {% endfor %}
            </div>
-           
+           <div class="row">
+           <div class="col-lg-12 text-center">
+                    <h3 class="section-heading">Videos</h2>
+                <br>
+           </div>
+           </div>
+           <div class="row text-center">
+              {% for movie in site.data.information.movies %}
+                <div class="col-md-4">
+                  <iframe height="300px" src="https://www.youtube.com/embed/{{ movie.ID }}" frameborder="0" allowfullscreen></iframe>
+                  <h4 class="service-heading">{{ movie.title }}<h4>
+                </div>
+              {% endfor %}
+           </div>
        </div>
     </section>
