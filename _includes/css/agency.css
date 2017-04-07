@@ -651,6 +651,7 @@ aside.clients img {
 footer {
     padding: 25px 0;
     text-align: center;
+    background-color: #000000
 }
 
 footer span.copyright {
@@ -658,6 +659,7 @@ footer span.copyright {
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
+    color: #ffffff
 }
 
 footer ul.quicklinks {
@@ -680,8 +682,8 @@ ul.social-buttons li a {
     font-size: 20px;
     line-height: 40px;
     outline: 0;
-    color: #fff;
-    background-color: #222;
+    color: #000000;
+    background-color: #ffffff;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
