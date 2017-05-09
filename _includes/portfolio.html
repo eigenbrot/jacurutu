@@ -32,7 +32,9 @@
                   <a href="img/stickers/{{ sticker.image }}">
                   <img src="img/stickers/{{ sticker.image }}" style="height:300px">
                   </a>
-                  <h4 class="service-heading">{{ sticker.title }}<h4>
+                  <h4 class="service-heading">
+                  {{ sticker.title | markdownify | remove: "<p>" | remove: "</p>" }}
+                  <h4>
                 </div>
               {% endfor %}
            </div>
