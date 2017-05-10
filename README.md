@@ -1,30 +1,5 @@
-Agency Jekyll theme
+www.jacurutuproductions.com
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
-
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+The homepage for dirt-cheap design. Based on the [jekyll Agency theme](https://y7kim.github.io/agency-jekyll-theme),
+which is  based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
