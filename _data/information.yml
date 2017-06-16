@@ -36,6 +36,8 @@ stickers:
     title: Vote Goat
   - image: vote_goat_small.png
     title: Vote Goat (small)
+  - image: vote_goat_drumhead.png
+    title: Vote Goat drumhead
 
 movies:
   - ID: xxMXqfm59Eo
